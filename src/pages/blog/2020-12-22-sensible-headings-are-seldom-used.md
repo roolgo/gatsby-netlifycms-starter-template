@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Sensivel titulo.
-date: 2020-12-22T15:04:10.000Z
+title: Article 9
+date: 2020-12-09T15:04:10.000Z
 description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
   distinctio reprehenderit quos
 featuredpost: true
@@ -10,6 +10,7 @@ tags:
   - how to
   - tech
   - programming
+  - article
 ---
 
 # h1 : Introduction
