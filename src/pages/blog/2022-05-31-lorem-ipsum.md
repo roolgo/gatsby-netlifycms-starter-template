@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Article 2
-date: 2022-05-02T13:39:25.547Z
+date: 2022-05-02T18:53:22.531Z
 description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis,
   laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore
   voluptatum vel at ut temporibus.
