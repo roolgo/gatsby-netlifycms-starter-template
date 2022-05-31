@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Non Sense lorem
-date: 2022-05-31T13:00:15.863Z
+title: Article 1
+date: 2022-05-01T18:35:03.619Z
 description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
   distinctio reprehenderit quos
 featuredpost: true
@@ -10,7 +10,7 @@ tags:
   - lifestyle
   - luxury
   - how to
-  - artigo
+  - article
 ---
 
 # h1 : Heading
