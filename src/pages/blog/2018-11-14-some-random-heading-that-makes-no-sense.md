@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Aleatorio heading that makes no sense
+title: Aleatorio heading
 date: 2018-11-14T15:04:10.000Z
 description: Similique dicta nostrum autem, alias, accusantium ducimus repellat
   praesentium excepturi odio quod facilis dolore beatae eaque
