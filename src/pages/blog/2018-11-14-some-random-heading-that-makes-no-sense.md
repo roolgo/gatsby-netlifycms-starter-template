@@ -1,11 +1,11 @@
 ---
-templateKey: 'blog-post'
-title: 'Some random heading that makes no sense'
+templateKey: blog-post
+title: Aleatorio heading that makes no sense
 date: 2018-11-14T15:04:10.000Z
+description: Similique dicta nostrum autem, alias, accusantium ducimus repellat
+  praesentium excepturi odio quod facilis dolore beatae eaque
 featuredpost: false
 featuredimage: /img/image2.png
-description: >-
-  Similique dicta nostrum autem, alias, accusantium ducimus repellat praesentium excepturi odio quod facilis dolore beatae eaque
 tags:
   - blog
   - dummy text
