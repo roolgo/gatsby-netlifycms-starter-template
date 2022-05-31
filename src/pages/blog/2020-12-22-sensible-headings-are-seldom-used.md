@@ -1,10 +1,11 @@
 ---
-templateKey: 'blog-post'
-title: 'Sensible headings are seldom used'
+templateKey: blog-post
+title: Teste titulo!
 date: 2020-12-22T15:04:10.000Z
+description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
+  distinctio reprehenderit quos
 featuredpost: true
 featuredimage: /img/image1.png
-description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos
 tags:
   - how to
   - tech
