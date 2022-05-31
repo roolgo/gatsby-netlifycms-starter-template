@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Article 6
-date: 2022-05-06T12:15:07.534Z
+date: 2022-05-06T18:52:59.027Z
 description: Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid
   velit doloribus sint atque quidem
 featuredpost: true
