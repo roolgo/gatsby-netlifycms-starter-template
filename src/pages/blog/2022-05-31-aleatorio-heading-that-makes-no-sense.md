@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Article 8
-date: 2022-05-08T12:23:37.893Z
+date: 2022-05-08T18:52:17.465Z
 description: Similique dicta nostrum autem, alias, accusantium ducimus repellat
   praesentium excepturi odio quod facilis dolore beatae eaque
 featuredpost: false
