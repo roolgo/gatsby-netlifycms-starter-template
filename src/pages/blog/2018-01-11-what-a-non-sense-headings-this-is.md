@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: O que a Non Sense
-date: 2018-01-11T15:04:10.000Z
+title: Non Sense
+date: 2022-05-31T13:00:05.291Z
 description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
   distinctio reprehenderit quos
 featuredpost: true
@@ -10,6 +10,7 @@ tags:
   - lifestyle
   - luxury
   - how to
+  - artigo
 ---
 
 # h1 : Heading
