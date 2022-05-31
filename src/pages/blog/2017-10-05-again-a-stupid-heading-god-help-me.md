@@ -6,7 +6,7 @@ description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis,
   laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore
   voluptatum vel at ut temporibus.
 featuredpost: true
-featuredimage: /img/image6.png
+featuredimage: /img/kobu-agency-8lqd7vpkxze-unsplash.jpg
 tags:
   - how to
   - tech
