@@ -1,11 +1,11 @@
 ---
-templateKey: 'blog-post'
-title: 'A very important heading that makes little sense'
+templateKey: blog-post
+title: importante heading that makes little sense
 date: 2018-07-21T15:04:10.000Z
+description: Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex
+  ut quisquam libero aspernatur iste inventore odit
 featuredpost: false
 featuredimage: /img/image3.png
-description: >-
-  Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex ut quisquam libero aspernatur iste inventore odit
 tags:
   - blog
   - luxury
