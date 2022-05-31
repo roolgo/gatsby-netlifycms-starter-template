@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Importante titulo that
-date: 2022-05-31T12:26:11.663Z
+title: Article 3
+date: 2022-05-03T12:26:11.663Z
 description: Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex
   ut quisquam libero aspernatur iste inventore odit
 featuredpost: false
@@ -11,7 +11,7 @@ tags:
   - luxury
   - beauty
   - lifestyle
-  - artigo
+  - article
 ---
 # h1: Heading
 
