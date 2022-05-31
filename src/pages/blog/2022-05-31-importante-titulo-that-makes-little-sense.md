@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Importante titulo that makes little sense
+title: Importante titulo that
 date: 2022-05-31T12:25:11.058Z
 description: Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex
   ut quisquam libero aspernatur iste inventore odit
