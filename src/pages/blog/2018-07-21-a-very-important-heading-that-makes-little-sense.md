@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Article 11
-date: 2018-07-11T15:04:10.000Z
+date: 2022-05-11T18:53:39.212Z
 description: Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex
   ut quisquam libero aspernatur iste inventore odit
 featuredpost: false
