@@ -45,10 +45,14 @@ class BlogRoll extends React.Component {
                   </p>
 
                 </header>
-                
+                <Link
+                      className="title has-text-primary is-size-5 blogRollTitle"
+                      to={post.fields.slug}
+                    >
                 <p className="blogRollExcerpt flex flex-col-around">
                 {ClipText(post.frontmatter.description, 70)}
                 </p>
+                </Link>
                 <Link className="btn" to={post.fields.slug}>
                     Keep Reading →
                   </Link>
