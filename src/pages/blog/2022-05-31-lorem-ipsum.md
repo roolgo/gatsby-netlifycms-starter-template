@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Lorem Ipsum 2
-date: 2022-05-31T13:39:25.547Z
+title: Article 2
+date: 2022-05-02T13:39:25.547Z
 description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis,
   laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore
   voluptatum vel at ut temporibus.
@@ -11,7 +11,7 @@ tags:
   - how to
   - tech
   - programming
-  - artigo
+  - article
 ---
 # Heading
 
