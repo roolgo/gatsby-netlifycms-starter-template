@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Novamente, heading de novo
+title: Novamente, heading de novo!
 date: 2022-05-31T12:13:12.185Z
 description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis,
   laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore
