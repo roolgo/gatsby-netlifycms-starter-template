@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Aleatorio heading
-date: 2018-11-14T15:04:10.000Z
+title: Article 10
+date: 2018-11-10T15:04:10.000Z
 description: Similique dicta nostrum autem, alias, accusantium ducimus repellat
   praesentium excepturi odio quod facilis dolore beatae eaque
 featuredpost: false
@@ -11,6 +11,7 @@ tags:
   - dummy text
   - how to
   - tech
+  - article
 ---
 # h1: Heading
 
