@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
       style={{
         display: 'flex', 
         flexDirection: 'column', 
-        height: '200px', 
+        height: '100px', 
         lineHeight: '1', 
         justifyContent: 'center', 
         alignItems: 'center'
@@ -54,10 +54,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                
                 <div >
-                  <h4 className="recent-posts">
-                    Recent Blog Posts
-                  </h4>
-
+                  
                   <BlogRoll />
                 </div>
               </div>
