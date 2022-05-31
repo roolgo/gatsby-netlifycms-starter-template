@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Teste tiyulo Aleatorio heading that makes no sense abcdefghij klmn opqrst
-date: 2022-05-31T12:23:37.893Z
+title: Article 8
+date: 2022-05-08T12:23:37.893Z
 description: Similique dicta nostrum autem, alias, accusantium ducimus repellat
   praesentium excepturi odio quod facilis dolore beatae eaque
 featuredpost: false
@@ -11,6 +11,7 @@ tags:
   - dummy text
   - how to
   - tech
+  - article
 ---
 # h1: Heading
 
