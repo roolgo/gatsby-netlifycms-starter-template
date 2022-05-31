@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: O que a Non Sense headings this is
+title: O que a Non Sense
 date: 2018-01-11T15:04:10.000Z
 description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
   distinctio reprehenderit quos
