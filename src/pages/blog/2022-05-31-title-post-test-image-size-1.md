@@ -4,8 +4,8 @@ title: Title post test image size 1
 date: 2022-05-31T15:05:18.368Z
 description: This is a test to see the size of the image on a post! Cumque
   deleniti consequatur aliquid ab, accusamus praesentium vel eligendi ullam.
-featuredpost: true
-featuredimage: /img/photo-15188325534.bmp
+featuredpost: false
+featuredimage: /img/image3.png
 ---
 
 
