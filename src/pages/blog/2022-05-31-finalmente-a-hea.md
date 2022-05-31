@@ -11,6 +11,7 @@ tags:
   - dummy text
   - how to
   - tech
+  - artigo
 ---
 
 # h1: Heading
