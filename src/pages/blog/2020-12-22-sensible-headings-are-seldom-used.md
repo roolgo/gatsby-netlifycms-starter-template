@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Teste titulo!
+title: Sensivel titulo.
 date: 2020-12-22T15:04:10.000Z
 description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
   distinctio reprehenderit quos
