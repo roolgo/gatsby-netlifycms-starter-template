@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: importante heading that makes little sense
-date: 2018-07-21T15:04:10.000Z
+title: Article 11
+date: 2018-07-11T15:04:10.000Z
 description: Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex
   ut quisquam libero aspernatur iste inventore odit
 featuredpost: false
@@ -11,6 +11,7 @@ tags:
   - luxury
   - beauty
   - lifestyle
+  - article
 ---
 # h1: Heading
 
