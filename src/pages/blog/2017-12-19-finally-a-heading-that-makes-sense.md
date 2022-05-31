@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Finalmente a hea
-date: 2017-12-19T15:04:10.000Z
+title: Article 13
+date: 2022-05-13T18:53:58.067Z
 description: Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid
   velit doloribus sint atque quidem
 featuredpost: true
