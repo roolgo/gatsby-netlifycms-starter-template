@@ -11,6 +11,7 @@ tags:
   - luxury
   - beauty
   - lifestyle
+  - artigo
 ---
 # h1: Heading
 
