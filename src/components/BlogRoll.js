@@ -46,7 +46,7 @@ class BlogRoll extends React.Component {
 
                 </header>
                 <Link
-                      className="title has-text-secondary is-size-1 blogRollTitle"
+                      className="blogRollExcerpt"
                       to={post.fields.slug}
                     >
                 <p className="blogRollExcerpt flex flex-col-around">
