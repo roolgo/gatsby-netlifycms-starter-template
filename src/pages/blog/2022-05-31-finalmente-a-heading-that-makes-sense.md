@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Finalmente a heading that makes sense
-date: 2022-05-31T12:15:07.534Z
+title: Article 6
+date: 2022-05-06T12:15:07.534Z
 description: Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid
   velit doloribus sint atque quidem
 featuredpost: true
@@ -11,6 +11,7 @@ tags:
   - dummy text
   - how to
   - tech
+  - article
 ---
 
 # h1: Heading
