@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Non Sense
+title: Article 12
 date: 2022-05-12T18:53:47.923Z
 description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
   distinctio reprehenderit quos
 featuredpost: true
-featuredimage: /img/image4.png
+featuredimage: /img/fernando-marques-dzzv4ppq-ni-unsplash.jpg
 tags:
   - lifestyle
   - luxury
