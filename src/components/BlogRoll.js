@@ -66,9 +66,6 @@ class BlogRoll extends React.Component {
             </div>
           ))}
       </div>
-//        <div className="card">
-//        <p>AD GOES HERE</p>
-//        </div>
     </>)
   }
 }
