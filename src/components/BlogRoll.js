@@ -9,6 +9,7 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
+      <>
       <div className="grid grid-3">
         {posts &&
           posts.map(({ node: post }) => (
@@ -68,7 +69,7 @@ class BlogRoll extends React.Component {
        <div className="card">
        <p>AD GOES HERE</p>
        </div>
-    )
+    </>)
   }
 }
 
